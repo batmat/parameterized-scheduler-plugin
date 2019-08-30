@@ -1,5 +1,13 @@
 # Changes for the _Jenkins Parameterized Scheduler Plugin_
 
+## [0.8] - 2019-08-30
+### Java 11 Readiness adjustments for the plugin
+### Fix typos in help
+
+## [0.7] - 2019-08-29
+### Remove unused global.jelly part of the skeleton
+It was adding an undesired "Hello" step.
+
 ## [0.6.3] - 2017-10-14
 ### Set scheduler second to zero
 
